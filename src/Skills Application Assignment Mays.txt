@@ -1,0 +1,213 @@
+﻿Mays 
+Corey Mays
+Professor Sweany
+ENGL 2089
+12 April 2024
+Video Game Raids as an Office Space
+Metaphors are broad figures of speech that compare two seemingly unrelated things and are so prevalent because they often convey complex or deep ideas in a sometimes fun but implicit way. An intriguing source of metaphorical language could be the terms and phrases used to discuss video games, as they are often in fictional settings. A heavy amount of discussion about video games can arise from guides about certain activities within the game. On the surface, these guides aim to help information-seeking players complete challenging activities. Examining such guides' use of metaphor, as stated, brings out complex ideas or opinions, in this case, how the game's community feels about end-game activities like raids, which are typically challenging multiplayer activities requiring optimal gear taking hours to complete. I aim to dissect the language in Destiny 2 raid guides and argue that underneath their helpful descriptions, their depth exemplifies the commitment of a job, making the game's casual community feel current raids are inferior to older experiences, saying they are job-like and over-engineered. To do this, I will display a table of identified metaphors from the Destiny 2 raid guides along with their vehicles and general tenor. I categorized these metaphors from the list of words in the appendix derived from the guides. I will then explain the categorization by referring to the similarities drawn from metaphors within their semantic domains. Next, I prove these semantic domains are subdomains of a larger one named Video Games as an Office Space to argue the significance of the relation between video game raids and office spaces, highlighting the current community's negative opinions about the activity. Some limitations are that I only examined six raid guides for metaphors and partially examined audio-visual sources due to their length. The presented table of metaphors is composed of only one source. However, I will demonstrate that it contains representative examples that appear in other raid guides. Lastly, there will be a few closing words.
+Table of Metaphors: 
+Metaphor
+	Tenor
+	Vehicle
+	Semantic Domain
+	Archive Source
+	1. This is a full-blown raid on the scale of Leviathan and the raids in the original Destiny
+	The use of a large raid called the Leviathan establishes the size of the raid.
+	Leviathan
+	Final Video Game Enemy as Threatening Figures
+	Chandler 1
+	The in-game activity is comparable to a large-scale sudden attack on the enemies.
+	Raid
+	Final Video Game Enemy as Threatening Figures
+	Chandler 2
+	2. Players are tasked with diving into the Dreaming City and slaying the beast that waits at the end
+	Traveling to the Dreaming City.
+	Diving
+	Outlier: Fast travel as Fast actions
+	Chandler 2
+	Killing the final enemy.
+	Slaying
+	Final Video Game Enemy as Threatening Figures
+	Chandler 2
+	Describes the final enemy and its presence.
+	Beast
+	Final Video Game Enemy as Threatening Figures
+	Chandler 2
+	3. Kalli, the Corrupted, is the first boss encounter in Last Wish
+	Kalli and other boss-like enemies are considered the toughest enemies in the room and are in charge of other smaller enemies.
+	Boss
+	Final Video Game Enemy as Threatening Figures
+	Chandler 8
+	Corrupted
+	Final Video Game Enemy as Threatening Figures
+	Chandler 8
+	4. A few popular methods is to split the team in half
+	Separation of the team into two groups.
+	Split
+	Cooperativeness in Video Games
+	Chandler 19
+	5. The main elements to focus are pairing up with a partner and finding the plates
+	Two people in the team work together like friends.
+	Partner Pairing
+	Cooperativeness in Video Games
+	Chandler 8
+	6. This means that if a team fails to kill one of their Knights before the Kalli damage phase
+	The group of players acts like a team or sports team.
+	Team
+	Cooperativeness in Video Games
+	Chandler 15
+	7. As for the team composition and ideal weapon loadouts
+	Each player in the group can have a unique loadout that makes up the overall group.
+	Composition
+	Cooperativeness in Video Games
+	Chandler 4
+	8. There are three main roles during this fight
+	Players have to decide on what responsibility they'll take on for each encounter.
+	Role
+	Cooperativeness in Video Games
+	Chandler 22
+	9. Last Wish is a true endgame experience, requiring multiple weeks to prepare for
+	It will take players some time to acquire all the necessary equipment they'll need.
+	Prepare
+	Prerequisites of Raiding
+	Chandler 2
+	10. those who are looking to raid should begin the process of grinding Powerful Engrams in order to level up
+	Doing activities for powerful engrams and gear involves the repetitive completion of similar tasks.
+	Grinding
+	Prerequisites of Raiding
+	Chandler 2
+	Level
+	Prerequisites of Raiding
+	Chandler 2
+	11. player skill will need to make up for any Power deficit
+	Power relates to the player's strength against enemies.
+	Power
+	Prerequisites of Raiding
+	Chandler 3
+	12. Players should take advantage of the Wall of Wishes and all of the wishes to unlock emblems and skip to specific encounters
+	Using the wall is like a key to grant access to certain items or unlock them.
+	Unlock
+Key
+	Video Games as Puzzles
+	Chandler 2
+	Video Games as Puzzles
+	Chandler 2
+	13. Be sure to refer back to this symbol callout graphic if your team is struggling to come up with what to call each of the sixteen symbols
+	What players need to shoot at during a specific encounter.
+	Symbol
+	Video Games as Puzzles
+	Chandler 7
+	Video Games as Puzzles
+	Chandler 7
+	14. although there are few mechanics, keeping track of what’s going on can become troublesome
+	Guidelines, or rules, for an encounter that must be known to progress.
+	Mechanics
+	Video Games as Puzzles
+	Chandler 8
+	15. finding the plates that match the symbols in the center
+	Circle areas players step on and activate.
+	Plates
+	Video Games as Puzzles
+	Chandler 8
+	16. The nuances of the fight will be elaborated upon, but for now, the main steps are
+	The process of actions to complete a specific portion of the raid.
+	Steps
+	Video Games as Puzzles
+	Chandler 8
+	17. It’s important to note that an extra set of symbols can be found around the outside of the arena
+	Players need to remember what symbols were where.
+	Note
+	Video Games as Puzzles
+	Chandler 13
+	18. all six symbols will be removed from the center and Kalli will enter a damage phase
+	The point in time when players can damage the boss.
+	Phase
+	Video Games as Puzzles
+	Chandler 14
+	19. After all three sections of the arena have been used for their safe rooms
+	Specific area or the room.
+	Sections
+	Video Games as Puzzles
+	Chandler 16
+	20. Each plate is split into three sections, and two sections at random will spawn a Taken bomb
+	Players cannot predict where the bombs will spawn.
+	Random
+	Video Games as Puzzles
+	Chandler 10
+	
+
+When raiding in Destiny 2, the win condition of the activity is to defeat the final enemy. Authors or creators of raid guides will naturally express this task as daunting because of all the build-up before you get to the final enemy. However, every Destiny 2 raid contains sections with save states or checkpoints called encounters, each typically containing their final enemy before moving on. These enemies can also take on a very similar description as the last enemy in the activity. Even other aspects the author describes, such as the length and title of the activity, are scary, as seen in Metaphor 1. The names of the activities are called raids resembling a large-scale attack on the enemy, and the author compares the duration of them to another raid called the Leviathan. Using something like leviathans, which are giant mythical sea serpents, to describe the process of getting to the final enemy informs the reader of the guide that defeating this last enemy will certainly be no easy task. A similar description takes place in Metaphor 2 when describing the action of defeating the final enemy using words like beast and slay. Using the word beast turns the final enemy into something vicious and monster-like rather than an enemy of the player, which could be someone they do not like.
+Additionally, Destiny 2's sci-fi setting lets the player know that there is a sense of uniqueness and mystery behind the final enemy, as things labeled beasts are usually something unknown and threatening. Once the guide gets to a more objective state, describing these enemies defaults to their actual in-game names, like in Metaphor 3. Even in the name of the enemy, words like corrupted appear, letting the player know they are either evil or cursed in some way. Sometimes they are given nicknames like in Suttledge’s Rhulk section they refer to them as Daddy Long Legs associated with spiders. A crucial name seen in Metaphor 3 is the word boss. It is routine to see such enemies called bosses, seen in VanderVat’s second to last section, as this is likely from the definition of boss, which I will touch on later. The negative connotations and power structures of someone who gives orders align with the actions of these final enemies in the game.
+        Luckily, to tackle these threatening figures, players complete these activities as a group, giving rise to cooperative language when describing actions required by multiple players in the guide. A simple way to show how the proceeding metaphors incorporate such language is to relate it to the most widely known form of cooperation, sports. In metaphor 6, the word team appears, similar to a sports team. Within a sports team like football, for example, there are positions just as there are roles for players to carry out tasks (Metaphor 8). Closely related to roles are compositions. Team compositions are different combinations of roles. In Metaphor 7, these combinations could be two people focusing on killing smaller enemies or how many classes are in a team (3 Warlocks, 1 Hunter, and 2 Titans, for example). In some raids, unique roles arise from raid mechanics. For example in the Deep Stone Crypt raid in Fallout’s video, he has a chapter discussing raid unique roles like scanner, operator, and suppressor (COMPLETE BEGINNER'S GUIDE: Deep Stone Crypt Raid [Destiny 2 Beyond Light] 0:52-2:06). Equivalently, directions for the team follow just the same as in Metaphors 4 and 5. The guide suggests directions to organize the team using words like split, partner, or pairing. Sometimes raids will do this intentionally by having sectioned off areas once an encounter starts. Fallout also mentions dividing the team in the first encounter of his video (4:48), Suttledge as well at the beginning of their Rhulk section, and Kackis at 1:00 in his Destiny 2: KING'S FALL RAID FOR DUMMIES! video. Since these metaphors are similar to the organization and communication in sports teams, a typical example of cooperation, raid teams must also contain this cooperative language. 
+        The need for this communication is not only for team organization but for completing objectives in the raid. The two sections go together such that the raid team is solving a puzzle to complete the encounter. Puzzles do not have directions and require a trial and error solving process; this is what the Destiny 2 raid teams experience on the first day a new raid is released. In Metaphors 14 and 16, these discovered actions are the mechanics and steps to complete the raid, taking the form of the directions to solve the puzzle. In Metaphors 12, 13, and 15, players can step onto plates, terminology for a circle-shaped area on the ground (Raid Mastery: An Updated Guide For Vow Of The Disciple (Tricks, Skips, Meta & More) 9:26), or shoot at symbols to unlock items and complete objectives. Again, it's not clear at first how to correctly interact with such things, but eventually, players learn the mechanics and thus replicate the solving of the puzzle for their benefit. These items (plates, symbols, and even enemies) are similar to the pieces in a puzzle and how someone must interact with them correctly (Llama 6:02). 
+        As far as replication goes, this is where communication comes into play to solve the puzzle. In Metaphors 19 and 20, some mechanics of encounters can be chaotic, as things can be random, like in 20 with the Taken bombs, or areas could be dangerous, like the sections of the arena in 19. These mechanics add an information aspect to encounters, making communication essential. In Metaphor 17, players must take note of these things, similar to how one would note a piece that does not fit somewhere, and communicate that with everyone involved in solving the puzzle. In one of the more challenging raids, Vow of The Disciple, Llama recommends players to a website to help memorize the 28 symbols (Llama 0:50). Metaphor 18 exemplifies the calling out of information, as there is a portion of time the boss can take damage; this window of time is like the last step in the puzzle. After moving all the pieces just right, the puzzle undoes itself smoothly, comparable to opening the puzzle box. At this moment, players must communicate this information to succeed and not miss the window to damage the boss (known as the DPS phase) as seen at the end of Fallout’s video during 28:30.
+        A tedious limitation to getting to these points in the raids is the in-game requirements necessary to perform well. Metaphor 11 refers to the measurement of strength any player has against an enemy as power, which is what Destiny 2 also labels as the player's strength. It is possible to start a raid without meeting the power requirements, but in Metaphor 11, this lack of power is substituted with skill, making the activity harder to complete. Most players will often say they cannot do the raid because they do not have enough power, and it is commonplace for willing players to meet this requirement before attempting any given raid. Players will say they grind or level up when increasing a character's power level, as seen in Metaphor 10. Leveling up is straightforward, as it is closely related to power and power level, so to meet the requirement, they say they need to level up rather than I need to increase my power level. It's more of a shortening. Grind or grinding refers to a repetitive action that will have a payoff later. Players typically think of the repetitive task of using a bench grinder to make a sharper sword. Except in Destiny 2, this would be the repeated activities that drop engrams revealing gear. Unfortunately, players obtaining high-level gear is not always enough, as Metaphor 9 suggests, with multiple weeks of preparing. In Destiny 2, and Llama’s loadouts section at 13:45, certain items are better suited for some tasks, so to have the highest chances of completing a raid, players must complete some prerequisites first.
+        Given the identified semantic domains of the Final video Game Enemy as Threatening Figures, Cooperativeness in Video Games, Video Games as Puzzles, and Prerequisites of Raiding, by thinking of the cooperativeness and puzzle domains together as a problem-solving domain, the larger semantic domain, Video Game Raids as an Office Space is formed out of the three remaining domains. When thought of together, these domains sound like the qualities of office spaces and the corporate world. For the larger semantic domain, the role of the raid boss is that of an office boss or CEO because of the similarities in environment and actions between the two. The most striking resemblance is the use of the word boss in video game raids and office jobs. This intersection of the word stems from its definition, "Boss: An originally American equivalent of master in the sense of employer of labour; applied also to a business manager, or any person who has a right to give orders" (Boss, N. (6)). The connection in the definition comes from a person who gives orders. In general, the raid boss is in charge of the lower-health enemies in the room of the encounter. Aside: The funny part of the comparison here is that the order the raid boss is giving is to kill all the players, while an office boss would have nonlethal and varying orders. The enemies' sense of hierarchy makes giving orders similar to a workplace or company because established executives give orders that trickle down the chain of command. One command that makes these figures threatening is their ability to fire someone. When someone gets fired from an office, they leave their job and start over someplace new. In Destiny 2, when a team fails a raid mechanic, some bosses can wipe the whole team out. When the raid team dies, it is as if they are getting fired from their job and have to start the encounter over again.
+        Some other factors aside from actions that make raid bosses and work bosses similar are their environment. Since these bosses have power over others, it gives them an amount of physical space they control, "It is a commonplace observation in workplaces of all sorts that the higher your position in the hierarchy, the larger the workspace you will have" (Baldry 367). Here, a manager is in control of the room their workers are in, a CEO is in control of the building, and a raid boss is in control of the room you fight them in and sometimes even larger spaces. In some rooms, more detailed places are predictable places for a raid boss to spawn. An office equivalent to this can be a person's desk, "Even their secretaries have nicer desks than everybody else's secretaries. You can walk in there and look at someone's chair and know what their position is" (Baldry 368), just how a boss's office is distinguishable from other workers' workspaces. Even enemies' spawn locations have less detail attributed to them than where the raid boss spawns. Lastly, on an even larger scale, the location of these two bosses is threatening, "Soja (1989) has described the office complexes of Los Angeles as fortresses of power, protected from the hostile inner city and its threatening occupants, and linked with each other electronically" (Baldry 374). In Destiny 2, players will raid enemy territories with high concentrations of powerful enemies. Players will often travel to different dimensions to fight raid bosses, so the fortresses of Los Angeles are like raid boss layers or bases where they command workers or enemies.
+        The next component of the larger semantic domain, Video Game Raids as an Office Space, is the broad topic of problem-solving. This topic combines the subdomains of Video Games as Puzzles and Cooperativeness in Video Games, as both come together when grappling with the challenges in raids and the office. One of the main struggles in raiding tends to be finding a group of players who know what to do for each portion of the raid. Players will often want a sherpa in the raid to explain encounters to the team and how an encounter works or how to perform a technique which can take place in the office, "These practicing engineers described having to lead training sessions and run seminars as well as teach peers how to execute a technique or work with a machine" (Darling et al. 8). These raid sherpas take on the role of leading the team, similar to these engineers or managers. There are often jumping puzzle skips that sherpas can teach raid members to make progressing through the activity more fluid, just as someone in the office could teach you a trick about effectively using a piece of software or operating a machine. Most of the time, it is crucial to gauge awareness and comprehension of current tasks in office spaces. To do this, managers hold relevant meetings, "As Table  2  illustrates,  32%  of the responses indicated that meetings were the most important type of oral communication event and 9% suggested that informal or interpersonal situations were essential" (Darling et al. 8). These meetings are adjacent to what raid teams do before jumping into the start of an encounter. Raid teams will usually check or pause between each encounter, making sure everyone is ready to start, and if not, the sherpa will help clear any confusion among unknowing members. The importance of these group checks is to avoid attempting an encounter half the team does not know how to do, wasting a lot of time for everyone. Ideally, having interpersonal relationships in a raid team is helpful, as it can make for a more naturally competent team. While bosses will stress communication in the office, it's not the bulk of the work, "In other words, our respondents told us that public speaking is important, even essential, but it is not the type of communication activity that commands a lot of their daily time at work" (Darling et al. 8). Managers with their employees and sherpas with their raid teams have to communicate constantly, but when it comes to completing a task, it's the action that takes up the most time. For Destiny 2 raids, this would be killing enemies or completing stages in an encounter.
+        The last domain, Prerequisites of Raiding, contributes to the larger domain by relating commonly asked-for requirements made by people looking for raiding groups to typical job descriptions. Both job descriptions and looking for group (LFG) posts are trying to find people best suited for the job. However, when a game like Destiny 2 has so many layers of optimization, elitism within this community can go unchecked. These layers of optimization create a lot of asks from players and are related to in-demand work skills (Rios et al. Figure 2). A more direct version of this relationship is to think about acquiring optimal gear in Destiny 2 as obtaining life skills for jobs or even certifications, depending on how valuable some items are in the game. Players like the Reddit user imyoungzy will even make memes or jokes poking fun at LFG posters asking for absurd or picky requirements by pointing out someone asking for over five-hundred completions in a single raid. These jokes also fall into the category of LFG Post as Online Dating. I will not provide other cases for this claim. However, note how relating these posts to dating apps enforces the presence of wanted commitment in the raiding community (married to the game). Posters want qualified players on their team to the same extent as someone being picky in their online dating preferences. Something employers are picky about that hits a little too close to home is experience, " . . . on LinkedIn since late 2017 showed that 35% of postings for “entry-level” positions asked for years of prior relevant work experience” (Morgan 2). In Destiny 2, player stats such as raid completions are available to the community, so players can easily demand experience as a requirement like these employers. In short, the domain Prerequisites of Raiding contains the LFG portion of Destiny that strongly resembles what employers ask in job descriptions, making these raids like office jobs.
+        Now that I have defined the overall semantic source domain, Video Game Raids as an Office Space, the nature of this Destiny 2 activity is oddly juxtaposed with aspects of corporate society. Video games are to be fun or relaxing activities that satiate peoples' escapism, and there should be no reason why Destiny 2, a sci-fi looter-shooter, cannot meet such a criterion. One cause of this could be that each raid has its unique weapon with a chance to drop upon completion. Unfortunately, not everyone is lucky enough to get the drop on their first completion, causing players to grind the raids until they get the weapon to drop. Whenever luck and grinding are involved in repetitive tasks, not everyone can commit time to it, as some players will say they have actual jobs they need to do. When searching Google for Destiny 2 raid exotics “job,” sites like Overgear, SkyCoach, and BoostingGround populate. These are all websites where people can pay others real money to farm raid weapons for them. There are also more things on these sites than just raid weapons. Players can buy things ranging from materials to specific challenge completions or even a bundle of obtainable weapons. The fact these services exist strengthens the relationship between Destiny 2 raids and office jobs, as people can complete these raids for a job. With these services in place across multiple websites, it's fair to say that players lack interest in completing Destiny 2 raids, at least for their drops. When browsing community posts about raids, criticism about the drops is a topic of complaint but is not typically the focus players seem to have when discussing the activity. In a Reddit post by ArchieUsesReddit, they ask the community about LFG posts, wondering why their quality appears to have dropped. Most of the responders to the post voice that the LFG experience is terrible, as people will not communicate during the activity, randomly leave, or say it's only viable if the players are familiar with the content. People also recommend using the LFG Discord for Destiny 2, saying it was a much better experience. 
+        While Destiny 2 raids are not impossible without communication, this shuts out the casual player base, where some players may struggle to learn the mechanics of raids. With recent raids, this is becoming a relevant issue. As Destiny 2 forum poster Sickchocthunder puts it, "Anyone else think Raids have become over-engineered and too complicated?" Commenters in the forum said they felt raids were going in the wrong direction, did not bother to do them anymore, or said they were more of a headache than fun, referencing matching symbols during a boss fight with a death-timer mechanic. However, players still wanted challenging raids but not in the form of convoluting mechanics. These mechanics corrupt the LFG community, as people cite players asking for experience within the first two days of a raid going live, again similar to employers in Morgan's article. Once more similar raids came out, players would need excellent communication to complete activities. In a way, the over-engineering of the raids corporatized the raiding community, "Corporate culture can benefit performance through three channels: ‘enhanced coordination and control within the firm, improved goal alignment between the firm and its members, and increased employee effort” (Sørensen, 2002)" (Hai-Lin et al. Section 2.2). These three channels are now essential aspects of communication in Destiny 2 raids when comparing a firm to a raiding team. This job-like raiding is a blow to the casual community or less committed portion of players, as they do not want to put so much effort or cannot put this kind of effort into the game, creating a further disconnect in the game’s community. It’s no wonder some websites offer services to complete raids for players, especially when they just want to play a game to have fun. 
+        From a rhetorical standpoint, the casual players of the game are a key reason why these raid guides exist in the first place. The guides are like a crash course on occupations the players need to adapt to and a subtle reason why there is corporate language in Destiny 2 raid guides. The depth or length of the guides represents the commitment this player base toils with. While Redditors like cross7w say the game feels like a job to them, it does not have to be this way, "If it’s feeling like a job and you’re not having fun, take a break" (cross7w). Still, the developers at Bungie who work on Destiny 2 raids should read the guides players make to see if this is the experience they want players to go through, as most raids are not intuitive.
+
+
+
+
+
+
+
+
+
+
+Appendix
+Data from Chandler’s guide: Raid, Forsaken, challenging, Leviathan, slaying, beast, end-game, experience, prepare, grinding, powerful, level, unlock, encounters, symbol, demanding, skill, power, team, composition, weapon, loadouts, damage, critical, output, consider, ability, super, clear, survival, players, role, exotic, best, highest, boss, mechanics, troublesome, partner, plates, steps, note, fight, kill, deal, hide, safe, wiping, repeat, phase, room, split, sections, together, teleports, random, spawn, stand, wait, marks, message, explosion, different, locate, assign, corrupted, intervals, puzzle, collects, attack, shield, attmept, health, button, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Works Cited
+“All Raid Exotic Weapons Bundle - Destiny 2 Weapons Carry | Overgear.com.” Overgear, overgear.com/games/d2/bundles/all-raid-exotic-weapons?platform=pc&boost-method=piloted&necrochasm-catalyst=false&touch-of-malice-catalyst=false&vex-mythoclast-catalyst=false&stream=false.
+ArchieUsesReddit, “what happened to LFG.” Reddit, April 1, 2024, https://www.reddit.com/r/DestinyTheGame/comments/1bsdjem/what_happened_to_lfg/?utm_source=embedv2&utm_medium=post_embed&utm_content=whitespace&embed_host_url=https://www.zleague.gg/theportal/destiny-2-lfg-woes-is-the-raiding-community-facing-a-communication-crisis/
+Baldry, Christopher. "The Social Construction of Office Space." International Labour Review, vol. 136, no. 3, Autumn 1997, pp. 365-378. HeinOnline, https://heinonline.org/HOL/P?h=hein.journals/intlr136&i=375.
+“Boss, N. (6).” Oxford English Dictionary, Oxford UP, December 2023, https://doi.org/10.1093/OED/3043239963.
+Chandler, Sam. “Destiny 2 - Last Wish Raid Guide.” Shacknews, 8 October 2018, www.shacknews.com/article/107313/destiny-2-last-wish-raid-guide. 
+“COMPLETE BEGINNER'S GUIDE: Deep Stone Crypt Raid [Destiny 2 Beyond Light].” YouTube, uploaded by Fallout Plays, 24 November 2020, https://www.youtube.com/watch?v=Fg5-sKYXhRs 
+Cross7w, “Destiny start feeling like a job…” Reddit, June 9, 2022, https://www.reddit.com/r/DestinyTheGame/comments/v8j0rg/destiny_start_feeling_like_a_job/
+Darling, Ann L., and Deanna P. Dannels. “Practicing Engineers Talk About the Importance of Talk: A Report on the Role of Oral Communication in the Workplace.” Communication Education, vol. 52, no. 1, Jan. 2003, pp. 1–16. https://doi.org/10.1080/03634520302457.
+Destiny 2 Boosting Services - D2 Paid Carry and Recovery Services | SkyCoach. skycoach.gg/destiny-boost.
+“Destiny 2 Carries - Become the Guardian You Always Wanted to Be!” Boosting Ground, boosting-ground.com/Destiny2.
+“Destiny 2: KING'S FALL RAID FOR DUMMIES! - Complete Raid Guide & Walkthrough.” YouTube, uploaded by KackisHD, 27 August 2022, https://www.youtube.com/watch?v=6J2yxv-LpUQ
+Hai-Lin, Zhao, et al. “The Effect of Corporate Culture on Firm Performance: Evidence From China.” China Journal of Accounting Research, vol. 11, no. 1, Mar. 2018, pp. 1–19. https://doi.org/10.1016/j.cjar.2018.01.003.
+imyoungzy. “LFG be like.” Reddit, March 9, 2023,  https://www.reddit.com/r/DestinyMemes/comments/11ml56m/lfg_be_like/.
+Morgan, Kate. “Why Inexperienced Workers Can’t Get Entry-Level Jobs.” BBC News, BBC, 25 Feb. 2022, www.bbc.com/worklife/article/20210916-why-inexperienced-workers-cant-get-entry-level-jobs. 
+“Raid Mastery: An Updated Guide For Vow Of The Disciple (Tricks, Skips, Meta & More).” YouTube, uploaded by Llama, 11 November 2023, https://www.youtube.com/watch?v=SA5GHZQJ6cM
+Rios, J. A., Ling, G., Pugh, R., Becker, D., & Bacall, A. (2020). Identifying Critical 21st-Century Skills for Workplace Success: A Content Analysis of Job Advertisements. Educational Researcher, 49(2), 80-89. https://doi.org/10.3102/0013189X19890600
+Sickchocthunder, “Anyone else think Raids have become over engineered and too complicated?” Bungie Forum post, December 12, 2018. https://www.bungie.net/en/Forums/Post/250105644
+Suttledge. “Destiny 2 Guide: Vow of the Disciple Complete Raid Guide.” Destiny Tracker, destinytracker.com/destiny-2/guides/vow-of-the-disciple-complete-raid-guide-by-suttledge-095cf690.
+VanderVat, Jacob. “Crota’s End Raid Walkthrough in Destiny 2: Season of the Witch.” Polygon, 6 Sep. 2023, www.polygon.com/destiny-2-guide-walkthrough/23859673/crotas-end-raid-walkthrough.

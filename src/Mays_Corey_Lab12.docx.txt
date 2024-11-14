@@ -1,0 +1,74 @@
+﻿Lab 12: File Away
+IT 1090C Computer Programming I 
+Prof. Tom Wulf
+Fall 2024 v1.8
+Lab 12: File Away
+20 Points
+
+
+Objectives
+* Practice reading text files and working with String data.
+* Practice writing CSV text data files
+
+
+Mini Lecture
+Lab 12 is about file handling; we will use the sample code from the NIO File package.
+You need to be able to read, understand and redeploy these sample programs for reading and writing text files. 
+Review the videos on the topic. You must use the try catch mechanism when working with files to handle exceptions.
+
+
+Part I
+Create an IntelliJ project called Lab_12_File_Away add it to GitHub source control.
+Create a java program FileInspector.java that uses the JFileChooser dialog to let the user specify a text file from the system. (Code the JFileChooser to open in the src directory of the IntelliJ project.) The program should then open and read the file line by line and echo the lines to the screen. Then, the program should print a summary report of the file to the screen. The summary report should contain the following:
+* The name of the file the user chose to process
+* Number of lines in the file
+* Number of words in the file
+* Number of characters in the file
+
+
+Suggested process:
+1. Open the file after the user specifies it with JFileChooser. Read each line one at a time keeping track of how many lines you read. 
+2. As you read each line, count how many words there are. You can use the split function to return an array of the words and the length of the array is how many words there are. 
+3. Finally, as you read each line use the String length property to count how many characters are in the line and keep track of the total length of the file.
+Paste a screenshot here that shows the JFileChooser running.
+
+
+Paste 2 screenshots here that show your output stats for 2 successful program runs on different files.
+
+
+Part 2
+In the same IntelliJ project, create a java program called DataSaver.java and add it to GitHub src control. The program collects data from the user and saves it to a text file. Use the SafeInput library for getting the data. Write the data in the CSV record format.
+Data:
+* First Name
+* Last Name
+* ID Number (a zero replaced string of 6 digits 000001, 000002, etc.)
+* Email
+* Year of Birth (a four digit integer 1978, etc.)
+Here is a sample CSV record:
+Bilbo, Baggins, 000001, BBaggins@shire.net, 1044
+Loop the data input routine to allow the user to create as many records as they wish. 
+Save the CSV records initially into an arrayList of type <String> and then once the user has completed the input of all the records prompt for the file name (add the .csv extension) and write the data into the csv file which should be in the src. Directory of the intelliJ project.
+Run your program and create a data file record that has at least 3 CSV records.
+Paste a screenshot here that shows the Data Input.
+
+
+Paste a screenshot here that shows the saved file in the src directory of IntelliJ.
+
+
+Paste a screenshot here that shows the file opened in the IntelliJ editor.
+
+
+Post-Lab: Double-check Your Work
+Now that you have completed the lab tasks, build constructive professional work habits by carefully rechecking your work, and abiding by the naming format and submission instructions.
+Rename the file: 
+Use the YourLastname_YourFirstname_Lab12.docx format; remember to replace "YourLastname" and "YourFirstname" with your actual names.
+The naming format will help us efficiently track and organize your files.
+GitHub Link
+Paste the link to your GitHub repo here.
+
+
+Submit
+Submit to Canvas using the assignments mechanism to upload your document. Don’t submit a link to your document.
+
+
+Copyright © 2019-present, University of Cincinnati, Ohio. All rights reserved.
